@@ -1,4 +1,4 @@
-package net.muratbalkan;
+package com.mrbalkan;
 
 import java.time.LocalDateTime;
 

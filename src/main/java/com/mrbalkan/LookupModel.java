@@ -1,4 +1,4 @@
-package net.muratbalkan;
+package com.mrbalkan;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
